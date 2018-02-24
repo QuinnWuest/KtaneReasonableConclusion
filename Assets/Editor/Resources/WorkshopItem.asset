@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf2299c8864afe4ab42466f546ae20d, type: 3}
+  m_Name: WorkshopItem
+  m_EditorClassIdentifier: 
+  WorkshopPublishedFileID: 954003753
+  Title: The Reasonable Conclusion Casing
+  Description: 'Why download a bunch of different mods to get different sized bombs
+    when you can download one mod and get ALL of the sized bombs? Introducing the
+    reasonable conclusion, with cases sizes ranging from a small 2x2 to a game-busting
+    22x22. Any number of modules (of the form n^2 * 2 -1) is now yours to puruse.
+
+
+    (Usage of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=801400247]mod
+    selector mod[/url] is recommended, as the game will often select a case that is
+    too large.)'
+  PreviewImage: {fileID: 2800000, guid: e8b6e57c7b6355348b5631e4185deab6, type: 3}
+  Tags:
+  - Bomb Casing
